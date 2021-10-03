@@ -21,6 +21,19 @@
       "oF" : 0,
       "pg" : 0
     },
+    "\/deploy\/img\/hero-image.png" : {
+      "ft" : 32768,
+      "iS" : 6372584,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/hero-image.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -40,12 +53,31 @@
       "sC" : 3,
       "tS" : 0
     },
+    "\/deploy\/scripts-min.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/deploy\/scripts-min-min.js",
+      "oF" : 0,
+      "sC" : 3,
+      "tS" : 0
+    },
     "\/dev\/global\/head.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/global\/head.html",
+      "oF" : 0
+    },
+    "\/dev\/global\/header.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/global\/header.html",
       "oF" : 0
     },
     "\/dev\/global\/scripts.kit" : {
@@ -62,7 +94,7 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/dev\/index.html",
-      "oF" : 0
+      "oF" : 2
     },
     "\/dev\/js\/scripts.js" : {
       "bF" : 0,
@@ -70,8 +102,8 @@
       "ma" : 0,
       "mi" : 1,
       "oA" : 0,
-      "oAP" : "\/dev\/js\/scripts-min.js",
-      "oF" : 0,
+      "oAP" : "\/deploy\/scripts-min.js",
+      "oF" : 2,
       "sC" : 3,
       "tS" : 0
     },
@@ -223,8 +255,8 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 0,
-      "oAP" : "\/dev\/scss\/styles.css",
-      "oF" : 0,
+      "oAP" : "\/deploy\/styles.css",
+      "oF" : 2,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
